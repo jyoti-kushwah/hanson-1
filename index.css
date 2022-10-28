@@ -1,0 +1,36 @@
+.text1{
+
+    text-decoration:line-through;
+    font-weight: bold;
+}
+.text2{
+    background-color: yellow;
+    font-weight: bold;
+
+}
+.text3{
+    text-decoration:underline;
+}
+.text4{
+    letter-spacing: 3px;
+}
+.text5{
+    letter-spacing: 3px;
+}
+.text6{
+    letter-spacing: 3px;
+}
+.text7{
+    letter-spacing: 3px;
+    
+}
+.text8{
+    font-weight: bold;
+    background-color:yellow;
+}
+#text9{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration:none;
+}
